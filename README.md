@@ -11,4 +11,4 @@ This is my first HTML webpage.
 - Lists
 - Links
 
-Created as part of my web development learning journey.
+Created as part of my web development learning journey
